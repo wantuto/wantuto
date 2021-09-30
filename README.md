@@ -12,7 +12,8 @@ Here are some ideas to get you started: -->
 - 🤜🤛 I'm looking for help with different languages like Python, advanced C++, advanced MatLab, etc.
 - 💬📝 Ask me about anything you want!
 
-## 📥📫 How to reach me:
+### 📥📫 How to reach me:
+##
 - personal e-mail: antonio.artzfdz@gmail.com
 - student  e-mail: antonio.aristizabal@estudiantat.upc.edu  
 

@@ -18,9 +18,10 @@ Here are some ideas to get you started: -->
 - personal e-mail: antonio.artzfdz@gmail.com
 - student  e-mail: antonio.aristizabal@estudiantat.upc.edu  
 
-</div>
-<a href="https://github.com/wantuto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wantuto&theme=dark&hide_langs_below=1" />
+
+##
+### 🖥📈 My GitHub stats!
+<a href="https://github.com/wantuto/github-readme-stats"><img align="center" alt="wantuto's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wantuto&langs_count=8&count_private=true&layout=compact&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/wantuto">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wantuto&show_icons=true&theme=dark&line_height=27" alt="wantuto's github stats"/>

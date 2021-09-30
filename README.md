@@ -14,6 +14,6 @@ Here are some ideas to get you started: -->
 
 ## 📥📫 How to reach me:
 - personal e-mail: antonio.artzfdz@gmail.com
-- student e-mail: antonio.aristizabal@estudiantat.upc.edu  
+- student  e-mail: antonio.aristizabal@estudiantat.upc.edu  
 
 

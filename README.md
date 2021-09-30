@@ -7,7 +7,7 @@
 Here are some ideas to get you started: -->
 
 - 🚀🛰 Studying Aerospace Engineering.
-- 🌱📖 Learning programming, team-working, developing my professional cereer, editing, efficiency, etc.
+- 🌱📖 Learning programming, team-working, editing, efficiency, etc.
 - 🤝👯 I'm looking to collaborate on developing programs, professional enrrollment, any project you would like my collaboration!
 - 🤜🤛 I'm looking for help with different languages like Python, advanced C++, advanced MatLab, etc.
 - 💬📝 Ask me about anything you want!
